@@ -1,0 +1,28 @@
+//
+//  Prefix header
+//
+//  The contents of this file are implicitly included at the beginning of every source file.
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_5_0
+#warning "This project uses features only available in iOS SDK 5.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+
+#define DOC_DIR     NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES)[0]
+
+
+//#define WEBSERVICE_CALL_URL                 [LIVE_URL stringByAppendingString:LIVE_API_PATH]
+
+enum ACTIONS
+{
+    IMAGE_DOWLOAD = 0,
+    API_CALL
+};
+
+#endif

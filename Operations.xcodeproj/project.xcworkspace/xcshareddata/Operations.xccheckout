@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2D1D4CA6-B4B1-46FF-AE2B-217D118F24D9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Operations</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9519DC0E-8CFF-4D61-9E58-89A0E89856C3</key>
+		<string>https://github.com/DipenPanchasara/NSOperationQueue.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Operations.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9519DC0E-8CFF-4D61-9E58-89A0E89856C3</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/DipenPanchasara/NSOperationQueue.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9519DC0E-8CFF-4D61-9E58-89A0E89856C3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9519DC0E-8CFF-4D61-9E58-89A0E89856C3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>NSOperationQueue</string>
+		</dict>
+	</array>
+</dict>
+</plist>
